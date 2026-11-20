@@ -1,6 +1,6 @@
-# Orbital Wiki take-home (Go)
+# Tredy Candidate Coding Assessment (Go)
 
-![Rogue Goose](https://github.com/user-attachments/assets/4f1da58b-bd97-43a3-b2e8-c418b814b77b)
+![Rogue Goose](https://github.com/user-attachments/assets/352b5cd5-ab02-473d-b024-3963ab983fd8)
 
 This repo is a small [MCP](https://modelcontextprotocol.io) server and a CLI client, wrapped around the [Orbital Wiki API](https://www.orbitalwiki.com/developers). The server, the client and the CLI plumbing are already built. Your job is the tools themselves.
 
@@ -11,7 +11,7 @@ There are two parts:
 
 Expect this to take about **2 hours**. If you're going well past that, stop and write down where you got to and what you'd do next. That's a perfectly fine submission.
 
-There's also a TypeScript track (a Next.js app around the same API). Do whichever you prefer, or both if you like.
+There's also a [TypeScript track](https://github.com/tredy-ai/rogue-goose-ts) (a Next.js app around the same API). Do whichever you prefer, or both if you like.
 
 ---
 
