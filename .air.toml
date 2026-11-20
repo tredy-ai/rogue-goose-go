@@ -1,0 +1,18 @@
+# air rebuilds bin/server and bin/client on save. It does not run anything:
+# the server speaks stdio and is started by the client.
+root = "."
+tmp_dir = "tmp"
+
+[build]
+  cmd = "go build -o bin/server ./cmd/server && go build -o bin/client ./cmd/client"
+  # What air "runs" after a successful build: a no-op that exits immediately.
+  entrypoint = ["echo", "build ok: bin/server bin/client"]
+  include_ext = ["go"]
+  include_file = ["go.mod", "go.sum"]
+  exclude_dir = ["bin", "tmp", "ai-log", "docs"]
+  exclude_regex = ["_test\\.go$"]
+  delay = 200
+  stop_on_error = true
+
+[misc]
+  clean_on_exit = true
