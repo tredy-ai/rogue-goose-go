@@ -1,5 +1,7 @@
 # Orbital Wiki take-home (Go)
 
+![Rogue Goose](https://github.com/user-attachments/assets/4f1da58b-bd97-43a3-b2e8-c418b814b77b)
+
 This repo is a small [MCP](https://modelcontextprotocol.io) server and a CLI client, wrapped around the [Orbital Wiki API](https://www.orbitalwiki.com/developers). The server, the client and the CLI plumbing are already built. Your job is the tools themselves.
 
 There are two parts:
