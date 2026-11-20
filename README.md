@@ -17,7 +17,7 @@ There's also a [TypeScript track](https://github.com/tredy-ai/rogue-goose-ts) (a
 
 ## Setup
 
-1. **Create your repo.** Click "Use this template" and create a **private** repository. Add **jalavosus and ToFut** as a collaborator.
+1. **Create your repo.** Click "Use this template" and create a **private** repository. Add **[jalavosus](https://github.com/jalavosus)** and **[ToFut](https://github.com/ToFut)** as collaborators.
 2. **Get an API key.** Create a free account at [orbitalwiki.com](https://www.orbitalwiki.com/developers/quickstart) and generate a key in the dashboard. The key is shown only once, so save it. The free tier allows 1,000 requests a day, which is plenty. Without a key, you share 50 requests a day with everyone on your network.
 3. **Configure:**
    ```sh
