@@ -7,7 +7,7 @@ There are two parts:
 - **Part 1:** done **by hand, without AI**.
 - **Part 2:** done **with AI assistance**. We want to see how you work with it.
 
-Expect this to take about **TODO(Jamie): time budget**. If you're going well past that, stop and write down where you got to and what you'd do next. That's a perfectly fine submission.
+Expect this to take about **2 hours**. If you're going well past that, stop and write down where you got to and what you'd do next. That's a perfectly fine submission.
 
 There's also a TypeScript track (a Next.js app around the same API). Do whichever you prefer, or both if you like.
 
@@ -15,7 +15,7 @@ There's also a TypeScript track (a Next.js app around the same API). Do whicheve
 
 ## Setup
 
-1. **Create your repo.** Click "Use this template" and create a **private** repository. Add **TODO(Jamie): GitHub handle(s)** as collaborators.
+1. **Create your repo.** Click "Use this template" and create a **private** repository. Add **jalavosus and ToFut** as a collaborator.
 2. **Get an API key.** Create a free account at [orbitalwiki.com](https://www.orbitalwiki.com/developers/quickstart) and generate a key in the dashboard. The key is shown only once, so save it. The free tier allows 1,000 requests a day, which is plenty. Without a key, you share 50 requests a day with everyone on your network.
 3. **Configure:**
    ```sh
@@ -185,7 +185,7 @@ git tag part-2 && git push origin part-2
 
 ## Submitting
 
-Push both tags, then let **TODO(Jamie): contact** know. Anything you want us to know goes in `ai-log/NOTES.md` or the message.
+Push both tags, then let **Jamie Alavosus (jamie@tredy.ai)** know. Anything you want us to know goes in `ai-log/NOTES.md` or the message.
 
 ## What we look at
 
